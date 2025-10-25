@@ -1,5 +1,4 @@
 import numpy as np
-
 def throw_rock (m, v0, theta):
     g = 9.81 #in m/s^2
     theta = theta*np.pi/180 # in rad
